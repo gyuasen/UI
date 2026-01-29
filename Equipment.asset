@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b77dee1b8363b248928712e225c8546, type: 3}
+  m_Name: Equipment
+  m_EditorClassIdentifier: 
+  equipmentList:
+  - equipmentID: 1
+    equipmentName: "\u93A7"
+    description: 
+    type: 2
+    attack: 0
+    defense: 10
+    hp: 0
+    mp: 0
+    criticalRate: 0
+    criticalDamage: 0
+    evadeRate: 0
+  - equipmentID: 2
+    equipmentName: "\u92ED\u3044\u5263"
+    description: "\u3088\u304F\u7814\u304C\u308C\u305F\u5263"
+    type: 0
+    attack: 15
+    defense: 0
+    hp: 0
+    mp: 0
+    criticalRate: 0.05
+    criticalDamage: 0
+    evadeRate: 0
+  - equipmentID: 3
+    equipmentName: "\u9244\u306E\u8DB3\u3042\u3066"
+    description: "\u9244\u3067\u3067\u304D\u305F\u8DB3\u3042\u3066"
+    type: 3
+    attack: 0
+    defense: 5
+    hp: 0
+    mp: 0
+    criticalRate: 0
+    criticalDamage: 0
+    evadeRate: 0
+  - equipmentID: 4
+    equipmentName: "\u515C"
+    description: 
+    type: 1
+    attack: 0
+    defense: 8
+    hp: 0
+    mp: 0
+    criticalRate: 0
+    criticalDamage: 0
+    evadeRate: 0
+  - equipmentID: 5
+    equipmentName: "\u9752\u3044\u6307\u8F2A"
+    description: "\u9752\u3044\u7D20\u6750\u3067\u3067\u304D\u305F\u6307\u8F2A"
+    type: 4
+    attack: 0
+    defense: 0
+    hp: 0
+    mp: 10
+    criticalRate: 0
+    criticalDamage: 0
+    evadeRate: 0
+  - equipmentID: 6
+    equipmentName: "\u8D64\u3044\u6307\u8F2A"
+    description: 
+    type: 4
+    attack: 10
+    defense: 0
+    hp: 0
+    mp: 0
+    criticalRate: 0
+    criticalDamage: 0
+    evadeRate: 0
